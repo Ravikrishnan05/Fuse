@@ -21,3 +21,5 @@ Maximum recommended fuse size: 2.25 * 13 Amps ≈ 29.25Amps
 based on the current we are giving to orin we need to choose fuse in such a way that is should be between 1.25 -2.25 times the max current
 
 Circuit boards with delicate components like microcontrollers, processors, and memory chips: Fast-acting fuses quickly interrupt excessive current before it can damage these sensitive parts
+
+We must connect fuses near the battery connection of main battery for over rover.
